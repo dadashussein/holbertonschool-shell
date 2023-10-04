@@ -1,0 +1,1 @@
+The pwd command stands for "print working directory" and it outputs the absolute path of the current working directory.
